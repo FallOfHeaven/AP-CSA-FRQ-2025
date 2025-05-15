@@ -8,7 +8,7 @@ public ArrayList<Match> buildMatches(){
     }
     return m;
   }
-  for(int i = 1; i < size/2; i++){
+  for(int i = 1; i < (size/2)+1; i++){
     Match o = new Match(competitorList.get(i), competitorList.get(size - i));
     m.add(o);
   }
