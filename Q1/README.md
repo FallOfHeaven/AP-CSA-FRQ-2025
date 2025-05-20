@@ -12,7 +12,8 @@ This section contains my analysis of Question 1 (Methods and Control Structures)
       - Write down "//numAvailableDogs()" and "//updateDogs()" so you won't forget.
       - Write down "//if this ... happens, ... will happen" so you remember ideas that you have.
 3. Code the ideas you have above.
-4. If you don't think the code will work then
+4. Since you can copy and paste your codes, if you don't think the code will work then copy a verison of your code, paste it and edit it to compare the code which you think will work.
+5. If you think it works, don't do extra things.
    
 
 #### My revised solution after review:
@@ -21,7 +22,7 @@ This section contains my analysis of Question 1 (Methods and Control Structures)
   
 #### Key concepts tested in this question:
 
-- Ideas here
+- How to access methods.
 
 #### What I learned from revisiting this problem:
 
