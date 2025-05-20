@@ -19,7 +19,7 @@ This section contains my analysis of Question 1 (Methods and Control Structures)
 
 #### My revised solution after review:
 
-- Maybe I could have 
+- Nothing really, I think it was a striaght forward question.
   
 #### Key concepts tested in this question:
 
@@ -30,4 +30,4 @@ This section contains my analysis of Question 1 (Methods and Control Structures)
 
 #### What I learned from revisiting this problem:
 
-- Ideas here
+- Nothing really, I think it was a striaght forward question if you comprehend the question.
