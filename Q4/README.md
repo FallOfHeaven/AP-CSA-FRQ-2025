@@ -20,7 +20,7 @@ This section contains my analysis of Question 4 (Making a 2D Array):
 
 #### My revised solution after review:
 
-- I believe it was a straight foward question.
+- Nothing really, I think it was a striaght forward question as they give you an example of what will happen if this happens.
   
 #### Key concepts tested in this question:
 
@@ -33,4 +33,4 @@ This section contains my analysis of Question 4 (Making a 2D Array):
 
 #### What I learned from revisiting this problem:
 
-- I believe it was a straight foward question.
+- Nothing really, I think it was a striaght forward question.
