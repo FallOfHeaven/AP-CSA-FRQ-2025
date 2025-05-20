@@ -22,12 +22,14 @@ Through this review process, I've identified these areas for continued learning:
 ## Resources
 Resources I found helpful during my exam preparation and review:
 
-- [Resource name and link]
-- [Resource name and link]
-- [Resource name and link]
+- https://runestone.academy/ns/books/published/csawesome/index.html
+- Youtube
+- Internet
+- Teacher
+- Peer
 
 ## Future Goals
 Moving forward, I plan to:
 - [Specific goal related to computer science learning]
-- [Project idea inspired by the exam content]
+- Create a game that everyone can enjoy and have fun.
 - [Study strategy for future computer science courses]
