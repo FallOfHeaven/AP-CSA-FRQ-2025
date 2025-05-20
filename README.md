@@ -32,4 +32,4 @@ Resources I found helpful during my exam preparation and review:
 Moving forward, I plan to:
 - [Specific goal related to computer science learning]
 - Create a game that everyone can enjoy and have fun.
-- [Study strategy for future computer science courses]
+- Read more and pratice what problem might occur when you are doing something.
