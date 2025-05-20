@@ -2,7 +2,7 @@
 
 ### Competitors and Match Making
 
-This section contains my analysis of Question 2 (Making ArrayList):
+This section contains my analysis of Question 3 (Making ArrayList):
 
 #### Approach during the exam:
 
