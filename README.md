@@ -17,7 +17,6 @@ Through this review process, I've identified these areas for continued learning:
 
 - Topic/Concept 1: Problem Thinking (What problem might occur)
 - Topic/Concept 2: Condition for something to do something
-- Programming practice: [Specific practice goals]
 
 ## Resources
 Resources I found helpful during my exam preparation and review:
@@ -30,6 +29,6 @@ Resources I found helpful during my exam preparation and review:
 
 ## Future Goals
 Moving forward, I plan to:
-- [Specific goal related to computer science learning]
+- Learn more about coding languages and how to efficently use them to solve problems.
 - Create a game that everyone can enjoy and have fun.
 - Read more and pratice what problem might occur when you are doing something.
